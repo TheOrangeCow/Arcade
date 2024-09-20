@@ -1,0 +1,9 @@
+Chicken:250
+game_master:90
+hi:2
+howard:0
+daniel:0
+daniel:0
+daniel:0
+daniel:0
+daniel:0
